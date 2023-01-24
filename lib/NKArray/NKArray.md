@@ -1,4 +1,4 @@
-# NKObject
+# NKArray
 Set of basic functions.
 
 ## Usage

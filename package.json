@@ -1,6 +1,6 @@
 {
   "name": "nklibs-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Daily use function set.",
   "main": "lib/index.js",
   "type": "module",
