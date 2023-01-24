@@ -1,0 +1,24 @@
+{
+  "name": "nklibs-node",
+  "version": "1.0.0",
+  "description": "Daily use function set.",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netkuup/NKLibsNode.git"
+  },
+  "author": "Netkuup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netkuup/NKLibsNode/issues"
+  },
+  "homepage": "https://github.com/netkuup/NKLibsNode#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ws": "*"
+  }
+}
