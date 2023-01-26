@@ -1,4 +1,4 @@
-# NKBase
+# NKVar
 Set of basic functions.
 
 ## Usage
