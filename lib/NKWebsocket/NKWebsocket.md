@@ -25,7 +25,7 @@ Examples
             console.log("onClose", e );
         }
         nk_websocket.onError = function( e ) {
-            console.log("onError", e );
+            console.error("onError", e );
         }
     }
     
