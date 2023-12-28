@@ -1,3 +1,5 @@
 .idea
 test
 sync.ffs_db
+node_modules
+package-lock.json
